@@ -1,0 +1,199 @@
+body {
+  font-family: Helvetica, Tahoma, Arial, "Microsoft YaHei", "微软雅黑", SimSun, "宋体", STXihei, "华文细黑", Heiti, "黑体", sans-serif;
+  font-size: 1em;
+  padding: 0;
+  margin: 0;
+}
+body a {
+  text-decoration: none;
+  color: #4183c4;
+}
+body a:hover {
+  text-decoration: underline;
+}
+body img[src^="http//eiv.baidu.com/"] {
+  display: none;
+}
+body a[title="站长统计"] {
+  display: none;
+}
+img {
+  max-width: 100%;
+}
+h1,
+h2,
+h3,
+h4 {
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+h1 {
+  font-size: 28px;
+}
+h2 {
+  font-size: 20px;
+  border-bottom: 1px solid #ccc;
+  margin-top: 50px;
+}
+h3 {
+  font-size: 18px;
+}
+h4 {
+  font-size: 16px;
+}
+.post {
+  max-width: 680px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px !important;
+  margin-bottom: 50px !important;
+}
+.post li {
+  line-height: 26px;
+  margin-bottom: 14px;
+}
+blockquote {
+  border-left: 4px solid #ddd;
+  padding: 0 15px;
+  margin: 30px 10px;
+  color: #777;
+}
+blockquote > :first-child {
+  margin-top: 0;
+}
+blockquote > :last-child {
+  margin-bottom: 0;
+}
+.post p {
+  margin: 25px 0;
+  line-height: 1.8;
+}
+.post h1:first-child {
+  margin-bottom: 60px !important;
+  margin-top: 0 !important;
+}
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+video {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background: #000;
+}
+.gutter pre {
+  margin: 0;
+}
+.highlight table {
+  table-layout: fixed;
+}
+.highlight table,
+.highlight tbody,
+.highlight tr,
+.highlight .code {
+  overflow-x: auto;
+}
+.highlight pre {
+  padding: 4px;
+  border: none;
+  background: transparent;
+  font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace;
+  font-size: 14px;
+}
+.highlight pre .line {
+  height: 16px;
+  max-width: 100%;
+}
+code {
+  font-family: Inconsolata, monospace, sans-serif;
+  color: #666;
+  padding: 1px 3px;
+  white-space: pre-wrap;
+  border: #e3edf3 1px solid;
+  background: #f7fafb;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+}
+pre code {
+  padding: 0;
+  border: none;
+  background: transparent;
+}
+pre {
+  font-family: Inconsolata, monospace, sans-serif;
+  color: #666;
+  padding: 3px 8px;
+  white-space: pre-wrap;
+  border: #e3edf3 1px solid;
+  background: #f7fafb;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+}
+cmd {
+  font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace;
+  white-space: pre;
+  display: block;
+  unicode-bidi: embed;
+  background: #474949;
+  color: #d1d9e1;
+  line-height: 2.2em;
+  text-indent: 0.5em;
+}
+cmd:before {
+  content: "$";
+}
+a {
+  text-decoration: none;
+}
+.ds-thread {
+  max-width: 680px;
+  margin: 0 auto;
+}
+.ds-powered-by {
+  display: none;
+}
+.post-bottom {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-bottom: 20px;
+  max-width: 680px;
+}
+.post-bottom .rss-feed {
+  position: absolute;
+  left: 0;
+  color: #fff;
+  background: #ff8c00;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  padding: 3px 12px;
+  font-size: 12px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.post-bottom .rss-feed:hover {
+  background: #ff4500;
+}
+split {
+  text-align: center;
+  display: block;
+  width: 100%;
+  color: #999;
+  border-bottom: solid #999 1px;
+  margin: 30px 0;
+}
+.date {
+  color: #aaa;
+  position: relative;
+  top: -42px;
+  font-size: 14px;
+  font-family: Consolas, "Courier New", Courier, Monaco, Menlo, monospace;
+}
