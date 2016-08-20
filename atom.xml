@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-20T07:54:40.000Z</updated>
+  <updated>2016-08-20T07:57:26.293Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>用Hexo折腾博客的心路历程</title>
-    <link href="http://yoursite.com/2016/08/19/%E7%94%A8Hexo%E6%8A%98%E8%85%BE%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B/"/>
-    <id>http://yoursite.com/2016/08/19/用Hexo折腾博客的心路历程/</id>
+    <title>折腾Hexo的心路历程</title>
+    <link href="http://yoursite.com/2016/08/19/%E6%8A%98%E8%85%BEHexo%E7%9A%84%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B/"/>
+    <id>http://yoursite.com/2016/08/19/折腾Hexo的心路历程/</id>
     <published>2016-08-19T12:52:46.000Z</published>
-    <updated>2016-08-20T07:54:40.000Z</updated>
+    <updated>2016-08-20T07:57:26.293Z</updated>
     
     <content type="html"><![CDATA[<p>利用Hexo在Github page上建立个人博客系统已经不是一件多么fancy的事情了，但是对于伪Geek的我来说，还是经历了十分艰辛的路程，遇到了几个坑，现在此总结一下，希望能对大家有所帮助。</p>
 <p>网上对搭建Hexo个人博客的方法介绍的已经十分详细了。google关键词`hexo github 博客，你会发现很多详细教程，我也是借鉴着很多前人的方法来实现的，这里就不重复制造轮子了。网上比较好的资源有（其中也会存在一些错误表达的地方）：</p>
