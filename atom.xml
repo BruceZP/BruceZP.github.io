@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-20T08:02:09.292Z</updated>
+  <updated>2016-08-20T08:33:09.729Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,47 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>折腾Hexo的心路历程</title>
-    <link href="http://yoursite.com/2016/08/19/%E6%8A%98%E8%85%BEHexo%E7%9A%84%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B/"/>
-    <id>http://yoursite.com/2016/08/19/折腾Hexo的心路历程/</id>
+    <title>CS50简装学习笔记</title>
+    <link href="http://yoursite.com/2016/08/20/CS50%E7%AE%80%E8%A3%85%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://yoursite.com/2016/08/20/CS50简装学习笔记/</id>
+    <published>2016-08-20T08:17:22.000Z</published>
+    <updated>2016-08-20T08:33:09.729Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近在<a href="liqi.io">利器</a>上看到推荐公开课，其中有提及哈佛大学的CS50。于是，在网易公开课上看了一节，感觉很好，又跳转到Youtube上看了最新的2015年的课程，决定开始学下去（希望不要打脸）。大家也可以通过<a href="https://cs50.harvard.edu/" target="_blank" rel="external">CS50的官网</a>找到课程的最新动态，包括下载公开课视频（Youtube上有字幕，英文的更舒服一些，但下载的视频似乎没有外挂的字幕）。我也将会在这篇博客中分享我的学习笔记。笔记应该不会是事无巨细的模式，只是提及一些要点，随后尽量补充，毕竟这个课程是很活跃的那种，理解要比笔记什么的来的更有用。</p>
+<h3 id="Week0"><a href="#Week0" class="headerlink" title="Week0"></a>Week0</h3><p>algorithm–算法<br>pseduocode–伪代码</p>
+<h5 id="编程中的重要元素"><a href="#编程中的重要元素" class="headerlink" title="编程中的重要元素"></a>编程中的重要元素</h5><ul>
+<li>statements </li>
+</ul>
+<ul>
+<li>conditions </li>
+<li>loops</li>
+</ul>
+<h3 id="Week0-continued"><a href="#Week0-continued" class="headerlink" title="Week0, continued"></a>Week0, continued</h3><p>computational thinking</p>
+<p><a href="https://scratch.mit.edu/" target="_blank" rel="external">Scratch</a> for basic programing</p>
+<h5 id="编程中的重要元素-1"><a href="#编程中的重要元素-1" class="headerlink" title="编程中的重要元素"></a>编程中的重要元素</h5><ul>
+<li>variables </li>
+<li>arrays </li>
+<li>functions (procedures)</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近在&lt;a href=&quot;liqi.io&quot;&gt;利器&lt;/a&gt;上看到推荐公开课，其中有提及哈佛大学的CS50。于是，在网易公开课上看了一节，感觉很好，又跳转到Youtube上看了最新的2015年的课程，决定开始学下去（希望不要打脸）。大家也可以通过&lt;a href=&quot;https://
+    
+    </summary>
+    
+    
+      <category term="学" scheme="http://yoursite.com/tags/%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>折腾Hexo：我填的坑</title>
+    <link href="http://yoursite.com/2016/08/19/%E6%8A%98%E8%85%BEHexo%EF%BC%9A%E6%88%91%E5%A1%AB%E7%9A%84%E5%9D%91/"/>
+    <id>http://yoursite.com/2016/08/19/折腾Hexo：我填的坑/</id>
     <published>2016-08-19T12:52:46.000Z</published>
-    <updated>2016-08-20T08:02:09.292Z</updated>
+    <updated>2016-08-20T08:15:56.688Z</updated>
     
     <content type="html"><![CDATA[<p>利用Hexo在Github page上建立个人博客系统已经不是一件多么fancy的事情了，但是对于伪Geek的我来说，还是经历了十分艰辛的路程，遇到了几个坑，现在此总结一下，希望能对大家有所帮助。</p>
 <p>网上对搭建Hexo个人博客的方法介绍的已经十分详细了。google关键词<code>hexo github 博客</code>，你会发现很多详细教程，我也是借鉴着很多前人的方法来实现的，这里就不重复制造轮子了。网上比较好的资源有（其中也会存在一些错误表达的地方）：</p>
