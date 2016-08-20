@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-20T07:57:26.293Z</updated>
+  <updated>2016-08-20T08:02:09.292Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,10 +20,10 @@
     <link href="http://yoursite.com/2016/08/19/%E6%8A%98%E8%85%BEHexo%E7%9A%84%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B/"/>
     <id>http://yoursite.com/2016/08/19/折腾Hexo的心路历程/</id>
     <published>2016-08-19T12:52:46.000Z</published>
-    <updated>2016-08-20T07:57:26.293Z</updated>
+    <updated>2016-08-20T08:02:09.292Z</updated>
     
     <content type="html"><![CDATA[<p>利用Hexo在Github page上建立个人博客系统已经不是一件多么fancy的事情了，但是对于伪Geek的我来说，还是经历了十分艰辛的路程，遇到了几个坑，现在此总结一下，希望能对大家有所帮助。</p>
-<p>网上对搭建Hexo个人博客的方法介绍的已经十分详细了。google关键词`hexo github 博客，你会发现很多详细教程，我也是借鉴着很多前人的方法来实现的，这里就不重复制造轮子了。网上比较好的资源有（其中也会存在一些错误表达的地方）：</p>
+<p>网上对搭建Hexo个人博客的方法介绍的已经十分详细了。google关键词<code>hexo github 博客</code>，你会发现很多详细教程，我也是借鉴着很多前人的方法来实现的，这里就不重复制造轮子了。网上比较好的资源有（其中也会存在一些错误表达的地方）：</p>
 <ul>
 <li><a href="https://www.freehao123.com/hexo-jianzhan/" target="_blank" rel="external">Hexo建站从入门到精通-Hexo博客本地环境配置,初始化,写作与部署</a> （<a href="https://n4l.pw/how-to-set-up-hexo-blog-on-linux.html" target="_blank" rel="external">在Linux服务器上搭建Hexo：OS X、Windows与Linux本地环境</a>）</li>
 <li><a href="http://www.jianshu.com/p/05289a4bc8b2" target="_blank" rel="external">如何搭建一个独立博客——简明Github Pages与Hexo教程</a></li>
