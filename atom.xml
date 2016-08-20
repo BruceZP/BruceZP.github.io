@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-20T08:33:09.729Z</updated>
+  <updated>2016-08-20T12:02:49.695Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2016/08/20/CS50%E7%AE%80%E8%A3%85%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     <id>http://yoursite.com/2016/08/20/CS50简装学习笔记/</id>
     <published>2016-08-20T08:17:22.000Z</published>
-    <updated>2016-08-20T08:33:09.729Z</updated>
+    <updated>2016-08-20T12:02:49.695Z</updated>
     
     <content type="html"><![CDATA[<p>最近在<a href="liqi.io">利器</a>上看到推荐公开课，其中有提及哈佛大学的CS50。于是，在网易公开课上看了一节，感觉很好，又跳转到Youtube上看了最新的2015年的课程，决定开始学下去（希望不要打脸）。大家也可以通过<a href="https://cs50.harvard.edu/" target="_blank" rel="external">CS50的官网</a>找到课程的最新动态，包括下载公开课视频（Youtube上有字幕，英文的更舒服一些，但下载的视频似乎没有外挂的字幕）。我也将会在这篇博客中分享我的学习笔记。笔记应该不会是事无巨细的模式，只是提及一些要点，随后尽量补充，毕竟这个课程是很活跃的那种，理解要比笔记什么的来的更有用。</p>
 <h3 id="Week0"><a href="#Week0" class="headerlink" title="Week0"></a>Week0</h3><p>algorithm–算法<br>pseduocode–伪代码</p>
@@ -37,7 +37,16 @@
 <li>variables </li>
 <li>arrays </li>
 <li>functions (procedures)</li>
+<li>Boolean expression (used with conditions)</li>
 </ul>
+<h4 id="Week1-Learn-Basics-of-C"><a href="#Week1-Learn-Basics-of-C" class="headerlink" title="Week1: Learn Basics of C"></a>Week1: Learn Basics of <strong>C</strong></h4><p>source code </p>
+<p>compiler</p>
+<p>object code (0 and 1)</p>
+<p>int: interger 整数</p>
+<p>string 字符串</p>
+<p><strong>CS50 IDE:</strong> 很好的学习各种语言基础的环境，是放到C9上的，具体可以看一下C9的简单介绍：<a href="https://xuanwo.org/2014/08/07/Cloud9/" target="_blank" rel="external">强大且配置项丰富的在线IDE应用——Cloud9</a>。</p>
+<p>可以通过注册C9账号来添加Harvard’s CS50来添加CS50 IDE.</p>
+<p>to be continued…</p>
 ]]></content>
     
     <summary type="html">
