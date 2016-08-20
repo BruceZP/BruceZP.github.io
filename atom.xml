@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-17T06:20:00.689Z</updated>
+  <updated>2016-08-19T12:55:00.658Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用Hexo折腾博客的心路历程</title>
+    <link href="http://yoursite.com/2016/08/19/%E7%94%A8Hexo%E6%8A%98%E8%85%BE%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B/"/>
+    <id>http://yoursite.com/2016/08/19/用Hexo折腾博客的心路历程/</id>
+    <published>2016-08-19T12:52:46.000Z</published>
+    <updated>2016-08-19T12:55:00.658Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="技" scheme="http://yoursite.com/tags/%E6%8A%80/"/>
+    
+  </entry>
   
   <entry>
     <title>我为什么还想要写博客</title>
