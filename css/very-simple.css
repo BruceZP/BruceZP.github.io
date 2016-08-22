@@ -44,7 +44,7 @@ body {
   font-family: Helvetica, Tahoma, Arial, STXihei, "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, Heiti, ubuntu, sans-serif; }
 
 article {
-  flex: 1; }
+  flex-grow: 1; }
 
 /**
  * header
