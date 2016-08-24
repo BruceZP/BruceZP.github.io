@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-21T13:04:36.591Z</updated>
+  <updated>2016-08-24T15:08:50.533Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2016/08/20/CS50%E7%AE%80%E8%A3%85%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     <id>http://yoursite.com/2016/08/20/CS50简装学习笔记/</id>
     <published>2016-08-20T08:17:22.000Z</published>
-    <updated>2016-08-21T13:04:36.591Z</updated>
+    <updated>2016-08-24T15:08:50.533Z</updated>
     
     <content type="html"><![CDATA[<p>最近在<a href="liqi.io">利器</a>上看到推荐公开课，其中有提及哈佛大学的CS50。于是，在网易公开课上看了一节，感觉很好，又跳转到Youtube上看了最新的2015年的课程，决定开始学下去（希望不要打脸）。大家也可以通过<a href="https://cs50.harvard.edu/" target="_blank" rel="external">CS50的官网</a>找到课程的最新动态，包括下载公开课视频（Youtube上有字幕，英文的更舒服一些，但下载的视频似乎没有外挂的字幕）。我也将会在这篇博客中分享我的学习笔记。笔记应该不会是事无巨细的模式，只是提及一些要点，随后尽量补充，毕竟这个课程是很活跃的那种，理解要比笔记什么的来的更有用。</p>
 <h3 id="Week0"><a href="#Week0" class="headerlink" title="Week0"></a>Week0</h3><p>algorithm–算法<br>pseduocode–伪代码</p>
@@ -56,6 +56,19 @@
 <p>loops: for (int i = 0; i &lt; 50; i++) { printf(“%i\n”, i) }  ; while (condition) {// do this again and again}; do { // do this again and again} while (conditions);</p>
 <p>variables: int counter; counter = 0; string name = GetString ( )</p>
 <p>// we can also define functions</p>
+<h4 id="Week2"><a href="#Week2" class="headerlink" title="Week2"></a>Week2</h4><p>functions: make codes more readable, //declared variables is effective in the nearest {},  the declare in front of the functions is to define the type of variable you want to return.</p>
+<h4 id="Week2-continued"><a href="#Week2-continued" class="headerlink" title="Week2 continued"></a>Week2 continued</h4><p>/0用于表示一个结束是00000000</p>
+<p>array: type name[n]   start from 0</p>
+<p> 命令行，讲的不是特别清楚，又看了一下网上资料。</p>
+<p><a href="http://wiki.jikexueyuan.com/project/c/c-command-line-arguments.html" target="_blank" rel="external">C 命令行参数</a></p>
+<p><code>执行程序时，可以从命令行传值给 C 程序。这些值被称为**命令行参数**，它们对程序很重要，特别是当您想从外部控制程序，而不是在代码内对这些值进行硬编码时，就显得尤为重要了。</code></p>
+<h4 id="Week3"><a href="#Week3" class="headerlink" title="Week3"></a>Week3</h4><p>The thinking mode of programing</p>
+<p>How to sort:</p>
+<p>bubble sort: n(n-1)/2   O(n2)</p>
+<p>insertion sort: </p>
+<p>upper amount of time: O(n^2) O(nlgn) O(n) O(lgn) O(1)</p>
+<p>lower amount of time : Ω</p>
+<p>and many many more on the CS50 website.</p>
 <p>to be continued…</p>
 ]]></content>
     
