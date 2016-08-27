@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-26T15:01:07.500Z</updated>
+  <updated>2016-08-27T15:27:47.412Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2016/08/20/CS50%E7%AE%80%E8%A3%85%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     <id>http://yoursite.com/2016/08/20/CS50简装学习笔记/</id>
     <published>2016-08-20T08:17:22.000Z</published>
-    <updated>2016-08-26T15:01:07.500Z</updated>
+    <updated>2016-08-27T15:27:47.412Z</updated>
     
     <content type="html"><![CDATA[<p>最近在<a href="liqi.io">利器</a>上看到推荐公开课，其中有提及哈佛大学的CS50。于是，在网易公开课上看了一节，感觉很好，又跳转到Youtube上看了最新的2015年的课程，决定开始学下去（希望不要打脸）。大家也可以通过<a href="https://cs50.harvard.edu/" target="_blank" rel="external">CS50的官网</a>找到课程的最新动态，包括下载公开课视频（Youtube上有字幕，英文的更舒服一些，但下载的视频似乎没有外挂的字幕）。我也将会在这篇博客中分享我的学习笔记。笔记应该不会是事无巨细的模式，只是提及一些要点，随后尽量补充，毕竟这个课程是很活跃的那种，理解要比笔记什么的来的更有用。</p>
 <h3 id="Week0"><a href="#Week0" class="headerlink" title="Week0"></a>Week0</h3><p>algorithm–算法<br>pseduocode–伪代码</p>
@@ -75,7 +75,12 @@
 <h4 id="Week4"><a href="#Week4" class="headerlink" title="Week4"></a>Week4</h4><p> recursive algorithm: function use itself </p>
 <p>How to calculate n!:  1. return sum += m 2. return (m + sigma(m-1))</p>
 <p>swap two var: a = a ^ b; b = a ^ b;  a = a ^ b  </p>
-<p> stack</p>
+<p>stack</p>
+<p>the function return the address of the returned element in memory </p>
+<h4 id="Week4-continued"><a href="#Week4-continued" class="headerlink" title="Week4, continued"></a>Week4, continued</h4><p>signature of JPEG 255(0xff) 216(0xd8) 255(0xff)</p>
+<p>struct: homemade type of data</p>
+<figure class="highlight plain"><figcaption><span>struct</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">typedef struct</div><div class="line">&#123;</div><div class="line">  	string name;</div><div class="line">  	string dorm;</div><div class="line">&#125;</div><div class="line">student</div></pre></td></tr></table></figure>
+<p>use * to point to the memory</p>
 <p>to be continued…</p>
 ]]></content>
     
