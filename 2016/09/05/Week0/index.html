@@ -1,0 +1,79 @@
+<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"><meta content="telephone=no" name="format-detection"><meta name="description"><title> | Frog Croaks</title><link rel="stylesheet" type="text/css" href="/css/normalize.css"><link rel="stylesheet" type="text/css" href="/css/highlight.css"><link rel="stylesheet" type="text/css" href="/css/very-simple.css"><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/font-awesome/4.5.0/css/font-awesome.min.css"><link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico"><link rel="alternate" type="application/atom+xml" href="/atom.xml"></head><body><!-- include the sidebar--><!-- include ./includes/sidebar.jade--><!-- Blog title and subtitle--><header><div class="container header"><a id="logo" href="/." class="title">Frog Croaks</a><span class="subtitle">蛙鸣</span><label id="toggle-menu" for="menu" onclick><i class="fa fa-bars"></i></label></div></header><!-- use checkbox hack for toggle nav-bar on small screens--><input id="menu" type="checkbox"><!-- Navigation Links--><nav id="nav"><div class="container"><a href="/" class="sidebar-nav-item active">Home</a><a href="/archives" class="sidebar-nav-item">Archives</a><a href="/about" class="sidebar-nav-item">About</a></div></nav><div id="header-margin-bar"></div><!-- gallery that comes before the header--><div class="wrapper"><div class="container post-header"><h1></h1></div></div><div class="wrapper"><div class="container meta"><div class="post-time">2016-09-05</div></div></div><article><div class="container post"><p>最近在<a href="https://brucezp.github.io/2016/08/20/CS50%E7%AE%80%E8%A3%85%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/liqi.io" target="_blank" rel="external">利器</a>上看到推荐公开课，其中有提及哈佛大学的CS50。于是，在网易公开课上看了一节，感觉很好，又跳转到Youtube上看了最新的2015年的课程，决定开始学下去（希望不要打脸）。大家也可以通过<a href="https://cs50.harvard.edu/" target="_blank" rel="external">CS50的官网</a>找到课程的最新动态，包括下载公开课视频（Youtube上有字幕，英文的更舒服一些，但下载的视频似乎没有外挂的字幕）。我也将会在这篇博客中分享我的学习笔记。笔记应该不会是事无巨细的模式，只是提及一些要点，随后尽量补充，毕竟这个课程是很活跃的那种，理解要比笔记什么的来的更有用。</p>
+<h3 id="Week0"><a href="#Week0" class="headerlink" title="Week0"></a>Week0</h3><p>algorithm–算法<br>pseduocode–伪代码</p>
+<h5 id="编程中的重要元素"><a href="#编程中的重要元素" class="headerlink" title="编程中的重要元素"></a>编程中的重要元素</h5><ul>
+<li>statements</li>
+</ul>
+<ul>
+<li>conditions</li>
+<li>loops</li>
+</ul>
+<h3 id="Week0-continued"><a href="#Week0-continued" class="headerlink" title="Week0, continued"></a>Week0, continued</h3><p>computational thinking</p>
+<p><a href="https://scratch.mit.edu/" target="_blank" rel="external">Scratch</a> for basic programing</p>
+<h5 id="编程中的重要元素-1"><a href="#编程中的重要元素-1" class="headerlink" title="编程中的重要元素"></a>编程中的重要元素</h5><ul>
+<li>variables</li>
+<li>arrays</li>
+<li>functions (procedures)</li>
+<li>Boolean expression (used with conditions)</li>
+</ul>
+<h3 id="Week1-Learn-Basics-of-C"><a href="#Week1-Learn-Basics-of-C" class="headerlink" title="Week1: Learn Basics of C"></a>Week1: Learn Basics of <strong>C</strong></h3><p>source code</p>
+<p>compiler</p>
+<p>object code (0 and 1)</p>
+<p>int: interger 整数</p>
+<p>string 字符串</p>
+<p><strong>CS50 IDE:</strong> 很好的学习各种语言基础的环境，是放到C9上的，具体可以看一下C9的简单介绍：<a href="https://xuanwo.org/2014/08/07/Cloud9/" target="_blank" rel="external">强大且配置项丰富的在线IDE应用——Cloud9</a>。</p>
+<p>可以通过注册C9账号来添加Harvard’s CS50来添加CS50 IDE.</p>
+<h3 id="Week1-continued"><a href="#Week1-continued" class="headerlink" title="Week1, continued"></a>Week1, continued</h3><p>types of data: bool (only in CS50), char double, float, int, long long, string (only in CS50)….</p>
+<p>format codes: %c, %i, %f, %lld, %s,</p>
+<p>escape sequences: \n, \r,\t, \’, \”, \, \0\</p>
+<p>functions: GetChar, GetDouble, GetFloat, GetInt…; printf()</p>
+<p>condition: if { } else if { } else { }</p>
+<p>boolean expressions: if (condition &amp;&amp; condition) { } // to express or, we use two vertical lines</p>
+<p>switches:</p>
+<p>loops: for (int i = 0; i &lt; 50; i++) { printf(“%i\n”, i) } ; while (condition) {// do this again and again}; do { // do this again and again} while (conditions);</p>
+<p>variables: int counter; counter = 0; string name = GetString ( )</p>
+<p>// we can also define functions</p>
+<h4 id="Week2"><a href="#Week2" class="headerlink" title="Week2"></a>Week2</h4><p>functions: make codes more readable, //declared variables is effective in the nearest {}, the declare in front of the functions is to define the type of variable you want to return.</p>
+<h4 id="Week2-continued"><a href="#Week2-continued" class="headerlink" title="Week2 continued"></a>Week2 continued</h4><p>/0用于表示一个结束是00000000</p>
+<p>array: type name[n] start from 0</p>
+<p>命令行，讲的不是特别清楚，又看了一下网上资料。</p>
+<p><a href="http://wiki.jikexueyuan.com/project/c/c-command-line-arguments.html" target="_blank" rel="external">C 命令行参数</a></p>
+<p><code>执行程序时，可以从命令行传值给 C 程序。这些值被称为**命令行参数**，它们对程序很重要，特别是当您想从外部控制程序，而不是在代码内对这些值进行硬编码时，就显得尤为重要了。</code></p>
+<h4 id="Week3"><a href="#Week3" class="headerlink" title="Week3"></a>Week3</h4><p>The thinking mode of programing</p>
+<p>How to sort:</p>
+<p>bubble sort: n(n-1)/2 O(n2)</p>
+<p>insertion sort:</p>
+<p>upper amount of time: O(n^2) O(nlgn) O(n) O(lgn) O(1)</p>
+<p>lower amount of time : Ω</p>
+<p>and many many more on the CS50 website.</p>
+<h4 id="Week3-continued"><a href="#Week3-continued" class="headerlink" title="Week3, continued"></a>Week3, continued</h4><p>Merger sort (O(nlogn))</p>
+<p>bitwise operators: &amp; | ^ ~ &lt;&lt; &gt;&gt; //access individual bits in C</p>
+<p>类似于布林运算： &amp;: and; |: or; ^: XOR // 1^1: 0; ~: not; &lt;&lt;: 1&lt;&lt;7=10000000</p>
+<h4 id="Week4"><a href="#Week4" class="headerlink" title="Week4"></a>Week4</h4><p>recursive algorithm: function use itself</p>
+<p>How to calculate n!: 1. return sum += m 2. return (m + sigma(m-1))</p>
+<p>swap two var: a = a ^ b; b = a ^ b; a = a ^ b</p>
+<p>stack</p>
+<p>the function return the address of the returned element in memory</p>
+<h4 id="Week4-continued"><a href="#Week4-continued" class="headerlink" title="Week4, continued"></a>Week4, continued</h4><p>signature of JPEG 255(0xff) 216(0xd8) 255(0xff)</p>
+<p>struct: homemade type of data</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">struct</div><div class="line">typedef struct</div><div class="line">&#123;</div><div class="line">  	string name;</div><div class="line">  	string dorm;</div><div class="line">&#125;</div><div class="line">student</div></pre></td></tr></table></figure>
+<p>use * to point to the memory</p>
+<h4 id="Week5-6-lost"><a href="#Week5-6-lost" class="headerlink" title="Week5-6 lost"></a>Week5-6 lost</h4><h4 id="Week7"><a href="#Week7" class="headerlink" title="Week7"></a>Week7</h4><p>Web programming</p>
+<p>basic of HTML and CSS</p>
+<h4 id="Week8"><a href="#Week8" class="headerlink" title="Week8"></a>Week8</h4><p> MVC </p>
+<p>to be continued…</p>
+</div><!-- comment system--><div class="container"><hr><div id="disqus_thread"></div><script type="text/javascript">
+var disqus_shortname = 'frogcroaks';
+var disqus_identifier = '2016/09/05/Week0/';
+var disqus_title = '';
+var disqus_url = 'http://yoursite.com/2016/09/05/Week0/';
+(function() {
+   var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+   dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">Blog comments powered by <span class="logo-disqus">Disqus</span></a></div></article><footer id="footer"><div class="container"><div class="bar"><div class="social"><a href="mailto:brucezp@gamil.com" target="_blank"><i class="fa fa-envelope-o"></i></a><a href="/atom.xml" target="_blank"><i class="fa fa-rss"></i></a></div><div class="footer">© 2016 <a href="/" rel="nofollow">Frog Croaks</a>. Powered by <a rel="nofollow" target="_blank" href="https://hexo.io">Hexo</a>. Theme <a target="_blank" href="https://github.com/lotabout/very-simple">very-simple</a>.</div></div></div></footer><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/fancybox/2.1.5/jquery.fancybox.css"><script src="//cdn.bootcss.com/jquery/2.0.3/jquery.min.js"></script><script src="//cdn.bootcss.com/fancybox/2.1.5/jquery.fancybox.pack.js"></script><script>$(document).ready(function() {
+    $(".fancybox").fancybox();
+});
+</script></body></html>

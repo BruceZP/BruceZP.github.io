@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-27T15:43:43.096Z</updated>
+  <updated>2016-10-06T07:24:07.169Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,131 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>李笑来老师读书经验谈</title>
+    <link href="http://yoursite.com/2016/10/06/%E6%9D%8E%E7%AC%91%E6%9D%A5%E8%80%81%E5%B8%88%E8%AF%BB%E4%B9%A6%E7%BB%8F%E9%AA%8C%E8%B0%88/"/>
+    <id>http://yoursite.com/2016/10/06/李笑来老师读书经验谈/</id>
+    <published>2016-10-05T16:00:00.000Z</published>
+    <updated>2016-10-06T07:24:07.169Z</updated>
+    
+    <content type="html"><![CDATA[<p>参加了李笑来老师关于自己读书经验的知乎live。这场live让我最为受益的一个观点是：<strong>对于好书，要只字不差的反复阅读</strong>。</p>
+<h3 id="李笑来老师读书的几个境界"><a href="#李笑来老师读书的几个境界" class="headerlink" title="李笑来老师读书的几个境界"></a>李笑来老师读书的几个境界</h3><ol>
+<li><p>第一个境界应该是漫无目的的读书，大量的阅读可以让你交到意外的好运。</p>
+</li>
+<li><p>挑书是一种能力，需要慢慢习得，所以要别人的书单会渐渐退化这样的能力。</p>
+<p>两个基本价值观：认清现实，思考未来；“<strong>有繁殖能力的知识</strong>”。</p>
+</li>
+<li><p>学术论文，是提高阅读理解能力的有效手段。</p>
+</li>
+<li><p>检索阅读： 有目标的阅读。自己建立一座图书馆，建立自己的知识体系。</p>
+</li>
+<li><p>再次大量阅读</p>
+</li>
+</ol>
+<p>从全盘接受，到部分接受，到不能接受的部分也多想想……</p>
+<h3 id="阅读的目的"><a href="#阅读的目的" class="headerlink" title="阅读的目的"></a>阅读的目的</h3><p>改变生活</p>
+<h3 id="升级自己的阅读操作系统"><a href="#升级自己的阅读操作系统" class="headerlink" title="升级自己的阅读操作系统"></a>升级自己的阅读操作系统</h3><h5 id="不仅要只字不差地读，还要反复地读。"><a href="#不仅要只字不差地读，还要反复地读。" class="headerlink" title="不仅要只字不差地读，还要反复地读。"></a>不仅要只字不差地读，还要反复地读。</h5><p>学习能力专业，就什么事情都能学的比较专业。</p>
+<p>递归结构的书籍（书中前面的理解是基于对后面的知识的理解）。所以，很多书籍需要反复的去读。</p>
+<p>如果一本书读不懂也要硬着头皮读完，也要反复读，这样才能做有悟性的人。</p>
+<p>学而不用则全白费</p>
+<p>读书也是一个社交的活动</p>
+<h5 id="提高阅读理解能力的最有效工具-——-写作"><a href="#提高阅读理解能力的最有效工具-——-写作" class="headerlink" title="提高阅读理解能力的最有效工具 —— 写作"></a>提高阅读理解能力的最有效工具 —— 写作</h5><p>像作者一样阅读。  // 教是最好的学习方法</p>
+<h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><p>碎片阅读没有用</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;参加了李笑来老师关于自己读书经验的知乎live。这场live让我最为受益的一个观点是：&lt;strong&gt;对于好书，要只字不差的反复阅读&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&quot;李笑来老师读书的几个境界&quot;&gt;&lt;a href=&quot;#李笑来老师读书的几个境界&quot; class=&quot;hea
+    
+    </summary>
+    
+    
+      <category term="书" scheme="http://yoursite.com/tags/%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2016/09/05/Week0/"/>
+    <id>http://yoursite.com/2016/09/05/Week0/</id>
+    <published>2016-09-05T11:10:58.794Z</published>
+    <updated>2016-09-07T15:37:38.502Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近在<a href="https://brucezp.github.io/2016/08/20/CS50%E7%AE%80%E8%A3%85%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/liqi.io" target="_blank" rel="external">利器</a>上看到推荐公开课，其中有提及哈佛大学的CS50。于是，在网易公开课上看了一节，感觉很好，又跳转到Youtube上看了最新的2015年的课程，决定开始学下去（希望不要打脸）。大家也可以通过<a href="https://cs50.harvard.edu/" target="_blank" rel="external">CS50的官网</a>找到课程的最新动态，包括下载公开课视频（Youtube上有字幕，英文的更舒服一些，但下载的视频似乎没有外挂的字幕）。我也将会在这篇博客中分享我的学习笔记。笔记应该不会是事无巨细的模式，只是提及一些要点，随后尽量补充，毕竟这个课程是很活跃的那种，理解要比笔记什么的来的更有用。</p>
+<h3 id="Week0"><a href="#Week0" class="headerlink" title="Week0"></a>Week0</h3><p>algorithm–算法<br>pseduocode–伪代码</p>
+<h5 id="编程中的重要元素"><a href="#编程中的重要元素" class="headerlink" title="编程中的重要元素"></a>编程中的重要元素</h5><ul>
+<li>statements</li>
+</ul>
+<ul>
+<li>conditions</li>
+<li>loops</li>
+</ul>
+<h3 id="Week0-continued"><a href="#Week0-continued" class="headerlink" title="Week0, continued"></a>Week0, continued</h3><p>computational thinking</p>
+<p><a href="https://scratch.mit.edu/" target="_blank" rel="external">Scratch</a> for basic programing</p>
+<h5 id="编程中的重要元素-1"><a href="#编程中的重要元素-1" class="headerlink" title="编程中的重要元素"></a>编程中的重要元素</h5><ul>
+<li>variables</li>
+<li>arrays</li>
+<li>functions (procedures)</li>
+<li>Boolean expression (used with conditions)</li>
+</ul>
+<h3 id="Week1-Learn-Basics-of-C"><a href="#Week1-Learn-Basics-of-C" class="headerlink" title="Week1: Learn Basics of C"></a>Week1: Learn Basics of <strong>C</strong></h3><p>source code</p>
+<p>compiler</p>
+<p>object code (0 and 1)</p>
+<p>int: interger 整数</p>
+<p>string 字符串</p>
+<p><strong>CS50 IDE:</strong> 很好的学习各种语言基础的环境，是放到C9上的，具体可以看一下C9的简单介绍：<a href="https://xuanwo.org/2014/08/07/Cloud9/" target="_blank" rel="external">强大且配置项丰富的在线IDE应用——Cloud9</a>。</p>
+<p>可以通过注册C9账号来添加Harvard’s CS50来添加CS50 IDE.</p>
+<h3 id="Week1-continued"><a href="#Week1-continued" class="headerlink" title="Week1, continued"></a>Week1, continued</h3><p>types of data: bool (only in CS50), char double, float, int, long long, string (only in CS50)….</p>
+<p>format codes: %c, %i, %f, %lld, %s,</p>
+<p>escape sequences: \n, \r,\t, \’, \”, \, \0\</p>
+<p>functions: GetChar, GetDouble, GetFloat, GetInt…; printf()</p>
+<p>condition: if { } else if { } else { }</p>
+<p>boolean expressions: if (condition &amp;&amp; condition) { } // to express or, we use two vertical lines</p>
+<p>switches:</p>
+<p>loops: for (int i = 0; i &lt; 50; i++) { printf(“%i\n”, i) } ; while (condition) {// do this again and again}; do { // do this again and again} while (conditions);</p>
+<p>variables: int counter; counter = 0; string name = GetString ( )</p>
+<p>// we can also define functions</p>
+<h4 id="Week2"><a href="#Week2" class="headerlink" title="Week2"></a>Week2</h4><p>functions: make codes more readable, //declared variables is effective in the nearest {}, the declare in front of the functions is to define the type of variable you want to return.</p>
+<h4 id="Week2-continued"><a href="#Week2-continued" class="headerlink" title="Week2 continued"></a>Week2 continued</h4><p>/0用于表示一个结束是00000000</p>
+<p>array: type name[n] start from 0</p>
+<p>命令行，讲的不是特别清楚，又看了一下网上资料。</p>
+<p><a href="http://wiki.jikexueyuan.com/project/c/c-command-line-arguments.html" target="_blank" rel="external">C 命令行参数</a></p>
+<p><code>执行程序时，可以从命令行传值给 C 程序。这些值被称为**命令行参数**，它们对程序很重要，特别是当您想从外部控制程序，而不是在代码内对这些值进行硬编码时，就显得尤为重要了。</code></p>
+<h4 id="Week3"><a href="#Week3" class="headerlink" title="Week3"></a>Week3</h4><p>The thinking mode of programing</p>
+<p>How to sort:</p>
+<p>bubble sort: n(n-1)/2 O(n2)</p>
+<p>insertion sort:</p>
+<p>upper amount of time: O(n^2) O(nlgn) O(n) O(lgn) O(1)</p>
+<p>lower amount of time : Ω</p>
+<p>and many many more on the CS50 website.</p>
+<h4 id="Week3-continued"><a href="#Week3-continued" class="headerlink" title="Week3, continued"></a>Week3, continued</h4><p>Merger sort (O(nlogn))</p>
+<p>bitwise operators: &amp; | ^ ~ &lt;&lt; &gt;&gt; //access individual bits in C</p>
+<p>类似于布林运算： &amp;: and; |: or; ^: XOR // 1^1: 0; ~: not; &lt;&lt;: 1&lt;&lt;7=10000000</p>
+<h4 id="Week4"><a href="#Week4" class="headerlink" title="Week4"></a>Week4</h4><p>recursive algorithm: function use itself</p>
+<p>How to calculate n!: 1. return sum += m 2. return (m + sigma(m-1))</p>
+<p>swap two var: a = a ^ b; b = a ^ b; a = a ^ b</p>
+<p>stack</p>
+<p>the function return the address of the returned element in memory</p>
+<h4 id="Week4-continued"><a href="#Week4-continued" class="headerlink" title="Week4, continued"></a>Week4, continued</h4><p>signature of JPEG 255(0xff) 216(0xd8) 255(0xff)</p>
+<p>struct: homemade type of data</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">struct</div><div class="line">typedef struct</div><div class="line">&#123;</div><div class="line">  	string name;</div><div class="line">  	string dorm;</div><div class="line">&#125;</div><div class="line">student</div></pre></td></tr></table></figure>
+<p>use * to point to the memory</p>
+<h4 id="Week5-6-lost"><a href="#Week5-6-lost" class="headerlink" title="Week5-6 lost"></a>Week5-6 lost</h4><h4 id="Week7"><a href="#Week7" class="headerlink" title="Week7"></a>Week7</h4><p>Web programming</p>
+<p>basic of HTML and CSS</p>
+<h4 id="Week8"><a href="#Week8" class="headerlink" title="Week8"></a>Week8</h4><p> MVC </p>
+<p>to be continued…</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近在&lt;a href=&quot;https://brucezp.github.io/2016/08/20/CS50%E7%AE%80%E8%A3%85%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/liqi.io&quot; target=&quot;_blank&quot; rel=
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>读《新生——七年就是一辈子》之开卷的思考</title>
@@ -50,82 +175,16 @@
   </entry>
   
   <entry>
-    <title>CS50简装学习笔记</title>
+    <title></title>
     <link href="http://yoursite.com/2016/08/20/CS50%E7%AE%80%E8%A3%85%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     <id>http://yoursite.com/2016/08/20/CS50简装学习笔记/</id>
-    <published>2016-08-20T08:17:22.000Z</published>
-    <updated>2016-08-27T15:27:47.412Z</updated>
-    
-    <content type="html"><![CDATA[<p>最近在<a href="liqi.io">利器</a>上看到推荐公开课，其中有提及哈佛大学的CS50。于是，在网易公开课上看了一节，感觉很好，又跳转到Youtube上看了最新的2015年的课程，决定开始学下去（希望不要打脸）。大家也可以通过<a href="https://cs50.harvard.edu/" target="_blank" rel="external">CS50的官网</a>找到课程的最新动态，包括下载公开课视频（Youtube上有字幕，英文的更舒服一些，但下载的视频似乎没有外挂的字幕）。我也将会在这篇博客中分享我的学习笔记。笔记应该不会是事无巨细的模式，只是提及一些要点，随后尽量补充，毕竟这个课程是很活跃的那种，理解要比笔记什么的来的更有用。</p>
-<h3 id="Week0"><a href="#Week0" class="headerlink" title="Week0"></a>Week0</h3><p>algorithm–算法<br>pseduocode–伪代码</p>
-<h5 id="编程中的重要元素"><a href="#编程中的重要元素" class="headerlink" title="编程中的重要元素"></a>编程中的重要元素</h5><ul>
-<li>statements </li>
-</ul>
-<ul>
-<li>conditions </li>
-<li>loops</li>
-</ul>
-<h3 id="Week0-continued"><a href="#Week0-continued" class="headerlink" title="Week0, continued"></a>Week0, continued</h3><p>computational thinking</p>
-<p><a href="https://scratch.mit.edu/" target="_blank" rel="external">Scratch</a> for basic programing</p>
-<h5 id="编程中的重要元素-1"><a href="#编程中的重要元素-1" class="headerlink" title="编程中的重要元素"></a>编程中的重要元素</h5><ul>
-<li>variables </li>
-<li>arrays </li>
-<li>functions (procedures)</li>
-<li>Boolean expression (used with conditions)</li>
-</ul>
-<h3 id="Week1-Learn-Basics-of-C"><a href="#Week1-Learn-Basics-of-C" class="headerlink" title="Week1: Learn Basics of C"></a>Week1: Learn Basics of <strong>C</strong></h3><p>source code </p>
-<p>compiler</p>
-<p>object code (0 and 1)</p>
-<p>int: interger 整数</p>
-<p>string 字符串</p>
-<p><strong>CS50 IDE:</strong> 很好的学习各种语言基础的环境，是放到C9上的，具体可以看一下C9的简单介绍：<a href="https://xuanwo.org/2014/08/07/Cloud9/" target="_blank" rel="external">强大且配置项丰富的在线IDE应用——Cloud9</a>。</p>
-<p>可以通过注册C9账号来添加Harvard’s CS50来添加CS50 IDE.</p>
-<h3 id="Week1-continued"><a href="#Week1-continued" class="headerlink" title="Week1, continued"></a>Week1, continued</h3><p>types of data: bool (only in CS50), char double, float, int, long long, string (only in CS50)….</p>
-<p>format codes: %c, %i, %f, %lld, %s,</p>
-<p>escape sequences: \n, \r,\t, \’, \”, \\, \0\</p>
-<p>functions: GetChar, GetDouble, GetFloat, GetInt…; printf()</p>
-<p>condition: if {  } else if  {  }  else {  }</p>
-<p>boolean expressions: if (condition &amp;&amp; condition) {  }   // to express or, we use two vertical lines</p>
-<p>switches:  </p>
-<p>loops: for (int i = 0; i &lt; 50; i++) { printf(“%i\n”, i) }  ; while (condition) {// do this again and again}; do { // do this again and again} while (conditions);</p>
-<p>variables: int counter; counter = 0; string name = GetString ( )</p>
-<p>// we can also define functions</p>
-<h4 id="Week2"><a href="#Week2" class="headerlink" title="Week2"></a>Week2</h4><p>functions: make codes more readable, //declared variables is effective in the nearest {},  the declare in front of the functions is to define the type of variable you want to return.</p>
-<h4 id="Week2-continued"><a href="#Week2-continued" class="headerlink" title="Week2 continued"></a>Week2 continued</h4><p>/0用于表示一个结束是00000000</p>
-<p>array: type name[n]   start from 0</p>
-<p> 命令行，讲的不是特别清楚，又看了一下网上资料。</p>
-<p><a href="http://wiki.jikexueyuan.com/project/c/c-command-line-arguments.html" target="_blank" rel="external">C 命令行参数</a></p>
-<p><code>执行程序时，可以从命令行传值给 C 程序。这些值被称为**命令行参数**，它们对程序很重要，特别是当您想从外部控制程序，而不是在代码内对这些值进行硬编码时，就显得尤为重要了。</code></p>
-<h4 id="Week3"><a href="#Week3" class="headerlink" title="Week3"></a>Week3</h4><p>The thinking mode of programing</p>
-<p>How to sort:</p>
-<p>bubble sort: n(n-1)/2   O(n2)</p>
-<p>insertion sort: </p>
-<p>upper amount of time: O(n^2) O(nlgn) O(n) O(lgn) O(1)</p>
-<p>lower amount of time : Ω</p>
-<p>and many many more on the CS50 website.</p>
-<h4 id="Week3-continued"><a href="#Week3-continued" class="headerlink" title="Week3, continued"></a>Week3, continued</h4><p>Merger sort (O(nlogn))</p>
-<p>bitwise operators: &amp; | ^ ~ &lt;&lt; &gt;&gt;   //access individual bits in C</p>
-<p>类似于布林运算： &amp;: and; |: or; ^: XOR // 1^1: 0; ~: not; &lt;&lt;: 1&lt;&lt;7=10000000</p>
-<h4 id="Week4"><a href="#Week4" class="headerlink" title="Week4"></a>Week4</h4><p> recursive algorithm: function use itself </p>
-<p>How to calculate n!:  1. return sum += m 2. return (m + sigma(m-1))</p>
-<p>swap two var: a = a ^ b; b = a ^ b;  a = a ^ b  </p>
-<p>stack</p>
-<p>the function return the address of the returned element in memory </p>
-<h4 id="Week4-continued"><a href="#Week4-continued" class="headerlink" title="Week4, continued"></a>Week4, continued</h4><p>signature of JPEG 255(0xff) 216(0xd8) 255(0xff)</p>
-<p>struct: homemade type of data</p>
-<figure class="highlight plain"><figcaption><span>struct</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">typedef struct</div><div class="line">&#123;</div><div class="line">  	string name;</div><div class="line">  	string dorm;</div><div class="line">&#125;</div><div class="line">student</div></pre></td></tr></table></figure>
-<p>use * to point to the memory</p>
-<p>to be continued…</p>
-]]></content>
+    <published>2016-08-19T16:00:00.000Z</published>
+    <updated>2016-09-04T13:00:38.280Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;最近在&lt;a href=&quot;liqi.io&quot;&gt;利器&lt;/a&gt;上看到推荐公开课，其中有提及哈佛大学的CS50。于是，在网易公开课上看了一节，感觉很好，又跳转到Youtube上看了最新的2015年的课程，决定开始学下去（希望不要打脸）。大家也可以通过&lt;a href=&quot;https://
-    
     </summary>
     
-    
-      <category term="学" scheme="http://yoursite.com/tags/%E5%AD%A6/"/>
     
   </entry>
   
@@ -134,7 +193,7 @@
     <link href="http://yoursite.com/2016/08/19/%E6%8A%98%E8%85%BEHexo%EF%BC%9A%E6%88%91%E5%A1%AB%E7%9A%84%E5%9D%91/"/>
     <id>http://yoursite.com/2016/08/19/折腾Hexo：我填的坑/</id>
     <published>2016-08-19T12:52:46.000Z</published>
-    <updated>2016-08-20T08:15:56.688Z</updated>
+    <updated>2016-08-30T05:16:32.701Z</updated>
     
     <content type="html"><![CDATA[<p>利用Hexo在Github page上建立个人博客系统已经不是一件多么fancy的事情了，但是对于伪Geek的我来说，还是经历了十分艰辛的路程，遇到了几个坑，现在此总结一下，希望能对大家有所帮助。</p>
 <p>网上对搭建Hexo个人博客的方法介绍的已经十分详细了。google关键词<code>hexo github 博客</code>，你会发现很多详细教程，我也是借鉴着很多前人的方法来实现的，这里就不重复制造轮子了。网上比较好的资源有（其中也会存在一些错误表达的地方）：</p>
@@ -151,6 +210,7 @@
 <li>当你更换了ico后重新deploy，而网站的ico没有变，那么请清除浏览器的缓存再试一次（针对不同主题都有不同的为网站添加ico的方法）</li>
 <li>有些时候deploy后网站并没有变化，请稍等一下，会有一定的延迟（一般都很短）</li>
 <li>我在添加about页面的时候，<code>/about</code>文件夹要放到Hexo目录中的<code>/source</code>文件夹下，而不是`/theme/very-simple/source下（针对于very-simple主题）</li>
+<li>写新文章，一定要遵守规则，在文章最前面的place holder处添加信息的时候一定要注意结构，在冒号后面记得添加空格后再输入信息，否则文章无法deploy。</li>
 </ul>
 <p>希望这些经验能够对你有一些借鉴作用，如果有什么问题，欢迎留言交流，祝你成功。</p>
 ]]></content>
