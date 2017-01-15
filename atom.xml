@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-15T08:43:14.459Z</updated>
+  <updated>2017-01-15T08:47:18.929Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,14 +16,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>Gardens by the Bay</title>
     <link href="http://yoursite.com/2017/01/15/Gardens%20by%20the%20bay/"/>
     <id>http://yoursite.com/2017/01/15/Gardens by the bay/</id>
     <published>2017-01-14T16:00:00.000Z</published>
-    <updated>2017-01-15T08:43:14.459Z</updated>
+    <updated>2017-01-15T08:47:18.929Z</updated>
     
-    <content type="html"><![CDATA[<p>Gardens by the bay</p>
-<p>美好的周末，美丽的心情。整理了前些日子在Gardens by the bay拍的照片，放上来，测试一下七牛图床的使用，也检验一下周末学习Lightroom两个小时的成果。估计以后这个博客也会成为我晒摄影作品的地盘吧，真的是要把这个空间变成一道大杂烩了。不过，我喜欢这样，那又怎样呢？</p>
+    <content type="html"><![CDATA[<p>美好的周末，美丽的心情。整理了前些日子在Gardens by the bay拍的照片，放上来，测试一下七牛图床的使用，也检验一下周末学习Lightroom两个小时的成果。估计以后这个博客也会成为我晒摄影作品的地盘吧，真的是要把这个空间变成一道大杂烩了。不过，我喜欢这样，那又怎样呢？</p>
 <p>这次是同课题组的同事们一起出来玩儿的，一起度过了一个美好的下午。</p>
 <p>第一张图是在进入花园的桥上拍摄的，可以看到远处的冷室，也是观光的重点。</p>
 <p><img src="http://oc5olpjf3.bkt.clouddn.com/IMG_20161225_144843.jpg" alt="Gardens by the bay"></p>
@@ -41,11 +40,12 @@
     
     <summary type="html">
     
-      &lt;p&gt;Gardens by the bay&lt;/p&gt;
-&lt;p&gt;美好的周末，美丽的心情。整理了前些日子在Gardens by the bay拍的照片，放上来，测试一下七牛图床的使用，也检验一下周末学习Lightroom两个小时的成果。估计以后这个博客也会成为我晒摄影作品的地盘吧，真的是
+      &lt;p&gt;美好的周末，美丽的心情。整理了前些日子在Gardens by the bay拍的照片，放上来，测试一下七牛图床的使用，也检验一下周末学习Lightroom两个小时的成果。估计以后这个博客也会成为我晒摄影作品的地盘吧，真的是要把这个空间变成一道大杂烩了。不过，我喜欢这样，那又
     
     </summary>
     
+    
+      <category term="影" scheme="http://yoursite.com/tags/%E5%BD%B1/"/>
     
   </entry>
   
